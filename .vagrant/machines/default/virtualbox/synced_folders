@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a23/Desktop/devops/provision","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/home/ubuntu/db":{"guestpath":"/home/ubuntu/db","hostpath":"/Users/tech-a23/Desktop/devops/provision/environment/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a23/Desktop/devops/provision","disabled":false,"__vagrantfile":true}}}
